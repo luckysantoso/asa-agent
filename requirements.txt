@@ -1,0 +1,9 @@
+elevenlabs
+pyaudio
+openai
+python-dotenv
+pillow
+langchain_community
+streamlit
+gradio
+watchdog
